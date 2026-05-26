@@ -90,43 +90,43 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 </a>
 
 <a href="https://www.credly.com/badges/28f48091-3ad0-416d-8b67-d55c81e97a4e/public_url">
-  <img src="./assets/certs/aws-solution-architect.png" width="120"/>
+  <img src="./assets/certificates/aws-solution-architect.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/48aaa956-7382-4ce8-963e-8c29c9440616/public_url">
-  <img src="./assets/certs/aws-sysops-administrator.png" width="120"/>
+  <img src="./assets/certificates/aws-sysops-administrator.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/c10176e0-66f1-4976-aeb1-9316d41d634b/public_url">
-  <img src="./assets/certs/cisco_ccna_R_26S.png" width="120"/>
+  <img src="./assets/certificates/cisco_ccna_R_26S.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/2d857703-7f86-4167-85de-97247ccbd7a8/public_url">
-  <img src="./assets/certs/comptia-linux+.png" width="120"/>
+  <img src="./assets/certificates/comptia-linux+.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/2c9ba27b-2302-4049-842a-014a6fc221e6/public_url">
-  <img src="./assets/certs/comptia-security+.png" width="120"/>
+  <img src="./assets/certificates/comptia-security+.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/207b32d9-5bc5-4ff6-b03b-628c343d1ca6/public_url">
- <img src="./assets/certs/isc2-candidate.png" width="120"/>
+ <img src="./assets/certificates/isc2-candidate.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/07db2c5a-8e0f-42e9-9a49-3e3421b04981/public_url">
-  <img src="./assets/certs/nutanix-certified-professional.png" width="120"/>
+  <img src="./assets/certificates/nutanix-certified-professional.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/0ce4f4f7-e822-42cf-a267-2e7bf6d1aa3a/public_url">
-  <img src="./assets/certs/opswat-icip.png" width="120"/>
+  <img src="./assets/certificates/opswat-icip.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/ae1be4e6-f558-45f5-a58a-793d1afee136/public_url">
-  <img src="./assets/certs/vmware_Cert_P_DCV6.5.png" width="120"/>
+  <img src="./assets/certificates/vmware_Cert_P_DCV6.5.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/45055392-327f-4fae-898b-0dd6f9d2eb8e/public_url">
-  <img src="./assets/certs/vmware_Cert_P_DCV6.png" width="120"/>
+  <img src="./assets/certificates/vmware_Cert_P_DCV6.png" width="120"/>
 </a>
 
 </p>
