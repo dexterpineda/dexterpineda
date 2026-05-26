@@ -22,6 +22,10 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-Expert-blue?style=for-the-badge&logo=linux)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-Enterprise-blue?style=for-the-badge&logo=windows)
+![Windows PKI](https://img.shields.io/badge/Windows-PKI_Infrastructure-blue?style=for-the-badge&logo=windows)
+![Windows Failover Clustering](https://img.shields.io/badge/Microsoft-Failover_Clustering-blue?style=for-the-badge&logo=windows)
+![High Availability](https://img.shields.io/badge/High_Availability-WSFC-red?style=for-the-badge&logo=windows)
+![Clustered Systems](https://img.shields.io/badge/Clustered_Systems-HA_Infrastructure-darkblue?style=for-the-badge&logo=microsoft)
 
 ---
 
