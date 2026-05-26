@@ -44,6 +44,7 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 ### 🔐 Security & Networking
 ![Security](https://img.shields.io/badge/Security-Cybersecurity-red?style=for-the-badge&logo=hackthebox)
 ![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=for-the-badge&logo=cisco)
+![PKI](https://img.shields.io/badge/Microsoft-PKI-blue?style=for-the-badge&logo=microsoft)
 
 ---
 
