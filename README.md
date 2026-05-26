@@ -36,6 +36,8 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 ### ⚙️ Automation & Scripting
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-Automation-623CE4?style=for-the-badge&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-Pipeline-D24939?style=for-the-badge&logo=jenkins)
 
 ---
 
