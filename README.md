@@ -150,7 +150,7 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 ### 🐧 Linux for Beginners
 A structured Linux learning journey covering commands, filesystem, permissions, and system administration.
 
-👉 https://github.com/dexterpineda/linux-for-beginners
+👉 
 
 ---
 
