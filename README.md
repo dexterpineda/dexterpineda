@@ -102,7 +102,7 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 </a>
 
 <a href="https://www.credly.com/badges/2d857703-7f86-4167-85de-97247ccbd7a8/public_url">
-  <img src="./assets/certificates/comptia-linux+.png" width="120"/>
+  <img src="./assets/certificates/CompTIA_Linux_2BLPI.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/2c9ba27b-2302-4049-842a-014a6fc221e6/public_url">
