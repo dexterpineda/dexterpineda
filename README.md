@@ -91,9 +91,10 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 ## 🏅 Verified Credly Digital Badges
 
 > Click on any badge to verify the certification on Credly.
-<div style="background-color:#0d1117; padding:20px; border-radius:12px;">
-<p align="left">
 
+
+  <p align="left">
+<div style="background-color:#0d1117; padding:20px; border-radius:12px;">
 <a href="https://www.credly.com/badges/8a81efce-20b6-4106-bd82-1f051c926b5c/public_url">
   <img src="./assets/certificates/aws-security.png" width="120"/>
 </a>
@@ -138,10 +139,10 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 <a href="https://www.credly.com/badges/45055392-327f-4fae-898b-0dd6f9d2eb8e/public_url">
   <img src="./assets/certificates/vmware_Cert_P_DCV6.png" width="120"/>
 </a>
-
+</div>
 </p>
 
-</div>
+
 ---
 
 ## 📂 Featured Projects
