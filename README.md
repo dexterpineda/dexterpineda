@@ -98,7 +98,8 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 </a>
 
 <a href="https://www.credly.com/badges/c10176e0-66f1-4976-aeb1-9316d41d634b/public_url">
-  <img src="./assets/certificates/cisco_ccna_R_26S.png" width="120"/>
+  <img src="./assets/certificates/cisco_ccna_R_26S.png" width="120" style="background-color:white;padding:10px;border-radius:10px;"/>
+  
 </a>
 
 <a href="https://www.credly.com/badges/2d857703-7f86-4167-85de-97247ccbd7a8/public_url">
