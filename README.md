@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dexter Pineda
 
-> 🐧 Linux • ☁️ Cloud • ⚙️ DevOps • 🔐 Security • 🚀 Infrastructure Engineer
+> 🐧 Linux • ☁️ Cloud • ⚙️ DevOps • 🔐 Security • 🚀 IT Infrastructure
 
 I design, build, and document real-world infrastructure using Linux, cloud platforms, and DevOps automation tools. My focus is on hands-on learning, production-style labs, and structured technical education.
 
