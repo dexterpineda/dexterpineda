@@ -86,7 +86,7 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 <p align="left">
 
 <a href="https://www.credly.com/badges/8a81efce-20b6-4106-bd82-1f051c926b5c/public_url">
-  <img src="aws-security.png" width="120"/>
+  <img src="./assets/certificates/aws-security.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/28f48091-3ad0-416d-8b67-d55c81e97a4e/public_url">
@@ -114,7 +114,7 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 </a>
 
 <a href="https://www.credly.com/badges/07db2c5a-8e0f-42e9-9a49-3e3421b04981/public_url">
-  <img src="./assets/certificates/nutanix-certified-professional.png" width="120"/>
+  <img src="./assets/certificates/nutanix-certified-professional-ncp-mci-5.png" width="120"/>
 </a>
 
 <a href="https://www.credly.com/badges/0ce4f4f7-e822-42cf-a267-2e7bf6d1aa3a/public_url">
