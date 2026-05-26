@@ -77,6 +77,62 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 
 ---
 
+---
+
+## 🏅 Verified Credly Digital Badges
+
+> Click on any badge to verify the certification on Credly.
+
+<p align="left">
+
+<a href="https://www.credly.com/badges/8a81efce-20b6-4106-bd82-1f051c926b5c/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/28f48091-3ad0-416d-8b67-d55c81e97a4e/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/48aaa956-7382-4ce8-963e-8c29c9440616/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/c10176e0-66f1-4976-aeb1-9316d41d634b/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/2d857703-7f86-4167-85de-97247ccbd7a8/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/2c9ba27b-2302-4049-842a-014a6fc221e6/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/207b32d9-5bc5-4ff6-b03b-628c343d1ca6/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/07db2c5a-8e0f-42e9-9a49-3e3421b04981/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/0ce4f4f7-e822-42cf-a267-2e7bf6d1aa3a/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/ae1be4e6-f558-45f5-a58a-793d1afee136/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+<a href="https://www.credly.com/badges/45055392-327f-4fae-898b-0dd6f9d2eb8e/public_url">
+  <img src="https://images.credly.com/size/120x120/images/default.png" width="120"/>
+</a>
+
+</p>
+
+---
+
 ## 📂 Featured Projects
 
 ### 🐧 Linux for Beginners
