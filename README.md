@@ -186,9 +186,7 @@ Production-style Kubernetes cluster setup with real-world architecture and tooli
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/dexterpineda  
-- YouTube: Coming Soon  
-- Blog: Coming Soon  
+- GitHub: https://github.com/dexterpineda
 - LinkedIn: https://www.linkedin.com/in/dexter-pineda-26a5146
 
 ---
