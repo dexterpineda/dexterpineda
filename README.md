@@ -56,7 +56,6 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 
 ### ☁️ Cloud Certifications
 ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=for-the-badge&logo=amazon-aws)
-![RHCSA - Red Hat Certified System Administrator](https://img.shields.io/badge/RedHat-Certified_System_Administrator-red?style=for-the-badge&logo=redhat)
 ![AWS SysOps](https://img.shields.io/badge/AWS-SysOps_Administrator-orange?style=for-the-badge&logo=amazon-aws)
 ![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-red?style=for-the-badge&logo=amazon-aws)
 
@@ -64,6 +63,7 @@ I design, build, and document real-world infrastructure using Linux, cloud platf
 
 ### 🐧 Linux & Open Source
 ![RHCSA](https://img.shields.io/badge/RedHat-RHCSA-red?style=for-the-badge&logo=redhat)
+![RHCSA - Red Hat Certified System Administrator](https://img.shields.io/badge/RedHat-Certified_System_Administrator-red?style=for-the-badge&logo=redhat)
 ![RHCE](https://img.shields.io/badge/RedHat-RHCE-red?style=for-the-badge&logo=redhat)
 ![Linux+](https://img.shields.io/badge/CompTIA-Linux+-yellow?style=for-the-badge&logo=linux)
 
